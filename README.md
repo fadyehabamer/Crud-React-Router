@@ -6,3 +6,5 @@
 - Edit Employees
 - Delete Employees
 - Sort Ascendingly by Salary
+- Filter Employees whose salary > 2500
+- 
