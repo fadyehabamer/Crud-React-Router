@@ -7,4 +7,4 @@
 - Delete Employees
 - Sort Ascendingly by Salary
 - Filter Employees whose salary > 2500
-- 
+- CSS Styling
