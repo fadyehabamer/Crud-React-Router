@@ -4,3 +4,4 @@
 ### Features
 - Add Employees
 - Edit Employees
+- Delete Employees
