@@ -79,7 +79,7 @@ export default class EditStd extends React.Component {
             value={this.state.salary}
             onChange={(e) =>
               this.setState({
-                Address: e.target.value,
+                salary: e.target.value,
               })
             }
           />
