@@ -5,3 +5,4 @@
 - Add Employees
 - Edit Employees
 - Delete Employees
+- Sort Ascendingly by Salary
